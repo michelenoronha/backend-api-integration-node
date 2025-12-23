@@ -1,3 +1,5 @@
+This repository illustrates backend API architecture principles supporting scalable and maintainable enterprise systems.
+
 # NODEjsAPIRestfull
                                              COMO CRIAR UMA API RESTFULL 
 
